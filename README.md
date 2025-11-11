@@ -14,4 +14,4 @@ Deep Learning Model
 Transformer Model
 - BERT mini
 
-*PS: This is built for 
+*PS: This is built for Google Colab. Please change the file directory to your own if you want to use it using other environment.
